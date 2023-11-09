@@ -20,8 +20,8 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/GhostTrack.git
-cd BusTracker
+git clone https://github.com/ohioguy123/BusWare.git
+cd BusWare
 pip3 install -r requirements.txt
 python3 BusWare.py
 ```
